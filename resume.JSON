@@ -1,0 +1,46 @@
+ 
+{
+    "HEAD":
+    {
+    "name":"kartheeswari E",
+    "description":"As a fresher, to work in an environment which encourage me to succeed and grow professionally where I can utilize my skills and knowledge appropriately"},
+     
+        " HIGHER EDUCATION AND QUALIFICATIONS":
+    {
+        "B.E (CSE).Government College Of Engineering, Thanjavur.CGPA/PERCENTAGE ":"8.06(UP TO 7TH SEMESTER)",
+    "Jun2017-Mar2018": "HSC .Syed Ammal Hr.Sec School, Ramanathapuram.PERCENTAGE=73%",
+   "Jun2015-Mar2016": "SSLC. Syed Ammal Hr.Sec School, Ramanathapuram.PERCENTAGE=91.6"
+   },
+   
+   "SKILLS":
+[
+    {
+"PROGRAMMING LANGUAGE":"C, Basics of JAVA",
+"WEB TECHNOLOGIES":"HTML,CSS,PHP",
+"DATABASE LANGUAGE":"MYSQL DATABAS"
+}
+],
+"PERSONAL":
+[
+    {
+        "Name":"KARTHEESWARI E",
+"Address":"1/346,Maha Sakthi Nagar,5th street.Ramanathapuram. 623501.",
+"Phone number":"9344245002",
+"Email":"Kartheesw2001@gmail.com"
+}
+],
+
+    "FIELD OF INTEREST":"full stack developer",
+
+    "PROJECT ": 
+    [
+        {
+            "Analysis & Predict the COVID-19 Using Machine Learning Algorithms":"This model is used to predict  if the persons have Covid or not ,based  on some symptoms.",
+    "Algorithms":"proposed system-Random Forest  Classifier.",
+    "Existing system": "Logistic Regression.",
+    "Language": "python ."
+    }
+],
+
+    "DECLARATION":"The above information are true and to the best of my knowledge.",
+"SIGNATURE":"E.KARTHEESWARI"}
